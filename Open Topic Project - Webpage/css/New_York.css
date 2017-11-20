@@ -15,7 +15,7 @@ th {
   padding: 15px;
 }/*This puts space in between the pages listed across on the home page*/
 body {
-    background-image: url(https://cdn.pixabay.com/photo/2017/06/07/15/47/new-york-city-2380683_960_720.jpg);
+    background-image: url(ny.jpg);
     background-size: 100%;
   }/*This image url was used to set the background for my homepage as a skyline*/
 .FifthAvenue{color: #42b6f4;
