@@ -1,0 +1,134 @@
+h1 {
+  text-align: center;
+  color: #42b6f4;
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: xx-large;
+}/*This is the color, size and font of the title of my website*/
+table{
+  background-color: #ffe14c;
+  border-style: #42b6f4;
+  margin-left: auto;
+  margin-right: auto;
+}
+th {
+  padding: 15px;
+}/*This puts space in between the pages listed across on the home page*/
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2017/06/07/15/47/new-york-city-2380683_960_720.jpg);
+    background-size: 100%;
+  }/*This image url was used to set the background for my homepage as a skyline*/
+.FifthAvenue{color: #42b6f4;
+font-style: oblique;
+font-family: fantasy;
+font-size: xx-large;}
+/*This code refers to the title for the Fifth Avenue section*/
+
+
+.FifthAvenue_Description {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  background-color: black;
+  border-style: solid;
+}
+
+.HomePage_Description{
+  color: #42b6f4;
+  text-align: center;
+  background-color: yellow;
+  border: 2px;
+  width: 400px;
+  height:400px;
+  margin:auto; 0;
+  padding: 40px;
+  border-style: double;
+  font-style:oblique;
+ font-size: x-large;
+
+
+}
+
+.StatueDescription{
+  color: #42b6f4;
+  text-align: center;
+  font-size: 25px;
+  background-color: yellow;
+/*The text-align here places the iframe in the cneter of the page*/
+
+
+}
+
+.CentralParkDescription{
+  color: #42b6f4;
+  font-size: 25px;
+  background-color: yellow;
+  /*This allows the background against the text and picture to be yellow*/
+
+}
+
+.BroadwayDescription{
+  color:#42b6f4;
+  font-size: 25px;
+  background-color: yellow;
+  text-align: center;
+  padding: 2px;
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: xx-large;
+  /*The xx-large makes the font size larger than some of the fonts on the other pages*/
+
+}
+
+.PizzaDescription{
+  color:#42b6f4;
+  font-size: 15px;
+  background-color: yellow;
+  text-align: center;
+  padding: 1px;
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: large;
+
+}
+
+.PizzaGif{
+  text-align: center;
+  max-width: 100%;
+  height: 200px;
+}
+/*The pizza gif links to the img src on the html page, just as you would link an image src to css*/
+
+.CookieDoDescription{
+  color:#42b6f4;
+  font-size: 15px;
+  background-color: yellow;
+  text-align: center;
+  padding: 1px;
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: large;
+}
+
+.CookiePic{
+  text-align: center;
+  border: 2px solid;
+  border-radius: 25px;
+}
+/*This is the cookie dough picture (used the align center to place the photo in the middle of the page)*/
+
+.box{ /*.box refers to the box in the Magnolia Bakery page*/
+  color:#42b6f4;
+  font-size: 15px;
+  background-color: yellow;
+  text-align: center;
+  padding: 1px;
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: large;}
+
+  .MagnoliaPic{
+    border-radius: 50%;
+    text-align: center;
+
+  }
